@@ -1,3 +1,4 @@
+type: HoverUnit
 flying: true
 drag: 0.01
 speed: 0.69

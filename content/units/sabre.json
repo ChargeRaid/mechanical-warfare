@@ -1,3 +1,4 @@
+type: GroundUnit
 health: 600
 speed: 0.12
 drag: 0.4

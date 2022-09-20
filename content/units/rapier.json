@@ -1,3 +1,4 @@
+type: GroundUnit
 health: 360
 speed: 0.2
 maxVelocity: 1.1
