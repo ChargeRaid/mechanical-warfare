@@ -1,3 +1,4 @@
+type: Hoverunit
 flying: true
 speed: 0.07
 maxVelocity: 0.6
