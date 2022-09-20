@@ -1,3 +1,4 @@
+type: HoverUnit
 flying: true
 health: 6900
 mass: 5
